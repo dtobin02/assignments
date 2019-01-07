@@ -1,0 +1,149 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (9x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         24 characters
+	Most common values:    GOVERNMENT CONTRIBUTIONS (9x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (9x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         24 characters
+	Most common values:    GOVERNMENT CONTRIBUTIONS (9x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         18 characters
+	Most common values:    PERSONNEL BENEFITS (9x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        2017-01-17
+	Largest value:         2017-03-31
+	Most common values:    2017-01-31 (2x)
+	                       2017-02-28 (2x)
+	                       2017-03-31 (2x)
+	                       2017-01-17 (1x)
+	                       2017-02-23 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    GL (9x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         10 characters
+	Most common values:    PAY0065392 (2x)
+	                       PAY0066171 (2x)
+	                       PAY0067085 (2x)
+	                       PRP0064957 (1x)
+	                       PRP0066011 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (9x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2016-12-01
+	Largest value:         2017-03-01
+	Most common values:    2016-12-01 (5x)
+	                       2017-01-01 (2x)
+	                       2017-02-01 (1x)
+	                       2017-03-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2017-01-31
+	Largest value:         2017-03-31
+	Most common values:    2017-01-31 (3x)
+	                       2017-02-28 (3x)
+	                       2017-03-31 (3x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         18 characters
+	Most common values:    HEALTH INSURANCE A (6x)
+	                       HEALTH INSURANCE F (3x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         9
+	Smallest value:        1,336,080.4
+	Largest value:         2,367,565.9
+	Sum:                   17,705,158.84
+	Mean:                  1,967,239.871
+	Median:                2,135,831.46
+	StDev:                 384,157.953
+	Most common values:    2,350,106.95 (1x)
+	                       2,135,831.46 (1x)
+	                       1,588,495.28 (1x)
+	                       2,164,129.9 (1x)
+	                       2,120,419.88 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   18,153
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (9x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (9x)
+
+Row count: 9

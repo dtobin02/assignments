@@ -1,0 +1,1 @@
+I found the largest expenditure in the data and saw that it was related to health care. My filter finds all rows with purpuse of health insurance and amount that is greater than 10
