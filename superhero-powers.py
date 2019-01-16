@@ -1,6 +1,5 @@
 # load libraries
 import json
-import csv
 
 # read json file
 with open('superheroes.json', 'r') as f:
