@@ -23,7 +23,9 @@ with open('veggies.csv', 'r') as f:
     reader = csv.DictReader(f)
     rows = list(reader)
     for row in rows:
-    	print(row)
+    	if row['color'] == "green":
+    		print(row)
+ 
 	
 
 # with open('testwrite.csv', 'w') as f:
